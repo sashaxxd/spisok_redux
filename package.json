@@ -5,7 +5,7 @@
   "dependencies": {
     "amd-define-factory-patcher-loader": "^1.0.0",
     "bootstrap": "3.3.6",
-    "jquery": "1.11.3",
+    "jquery": "3.4.1",
     "popper.js": "^1.15.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
